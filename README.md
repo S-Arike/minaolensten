@@ -2,4 +2,4 @@
 
 [ChatGPT](https://chat.openai.com/?model=text-davinci-002-render-sha)
 
-https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+[Github] (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
