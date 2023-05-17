@@ -1,4 +1,4 @@
-Ma kasutasin vahepeal ka ChatGPT. Siin on lingid ,ilma milleta nii Windowsis kui ka Ubuntus kood ei töötaks!!
+Ma kasutasin vahepeal ka ChatGPT. Siin on lingid ,ilma milleta nii Windowsis kui ka Ubuntus kood ei töötaks!! Täpsustuseks see kus , ma need pythoni failid tegin on üks 
 
 [Google Earth](https://www.google.com/earth/about/versions/download-thank-you/?usagestats=1)
 
